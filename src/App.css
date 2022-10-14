@@ -1,7 +1,28 @@
 .container {
   display: flex; /* or inline-flex */
+  flex-flow: column;
 }
 
 .header {
   padding: 10px;
+}
+
+.main {
+  padding: 20px;
+  flex-flow: column wrap;
+}
+
+.card {
+  border: 1px;
+  border-color: coral;
+  border-style: dotted;
+  padding: 20px;
+}
+
+.col {
+  flex-flow: column wrap;
+}
+
+.row {
+  flex-flow: row wrap;
 }

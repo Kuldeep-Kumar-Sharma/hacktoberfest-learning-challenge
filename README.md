@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<p align="center">
+    <a href="https://hacktoberfest.com/">
+        <img src="src/assets/hacktober-logo.png" width="30%">
+    </a>
+</p>
+<h1 align="center">🎉 Hacktoberfest 2022🎉</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 🗣 Hacktoberfest is a best way to get into the open source community, which grows bigger every year. Complete the 2022 challenge.
 
-## Available Scripts
+📢 **Register [here](https://hacktoberfest.com/) for Hacktoberfest2022   and make 4 pull requests to different open source projects in GitHub between September 26 - October 31st 🔥🎉.**
 
-In the project directory, you can run:
+## How to contribute here
+Here are some quick ways to contribute:
 
-### `npm start`
+* Add a `A Course  you like` to data.json 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Choose one , make a pull request for your work and wait for it to be merged!
+see your changes [here](https://github.com/Kuldeep-Kumar-Sharma/hacktoberfest-learning-challenge/) as well :)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Getting started
+* Fork this repository (Click the Fork button at the top right of this page)
+* Clone your forked repository to your local machine. 
 
-### `npm test`
+```markdown
+git clone https://github.com/Kuldeep-Kumar-Sharma/hacktoberfest-learning-challenge
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Create a branch
 
-### `npm run build`
+```markdown
+git checkout -b branch-name
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Make your changes (choose from any task mentioned above)
+* Commit and push
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ if you had fun!
