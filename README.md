@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.com/">
-        <img src="src/assets/hacktober-logo.png" width="30%">
+        <img src="src/hacktober-logo.png" width="30%">
     </a>
 </p>
 <h1 align="center">🎉 Hacktoberfest 2022🎉</h1>
@@ -12,7 +12,7 @@
 ## How to contribute here
 Here are some quick ways to contribute:
 
-* Add a `A Course  you like` to data.json 
+* Add a `A Course  you like` to data.json, It can be found in public folder.
 
 Choose one , make a pull request for your work and wait for it to be merged!
 see your changes [here](https://github.com/Kuldeep-Kumar-Sharma/hacktoberfest-learning-challenge/) as well :)
@@ -43,3 +43,4 @@ git push origin branch-name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
+* Project was created with help of [Create React App](https://create-react-app.dev/) 
