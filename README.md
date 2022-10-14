@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.com/">
-        <img src="src/hacktober-logo.png" width="30%">
+        <img src="https://github.com/Kuldeep-Kumar-Sharma/hacktoberfest-learning-challenge/blob/master/hacktober-logo.png" width="40%">
     </a>
 </p>
 <h1 align="center">🎉 Hacktoberfest 2022🎉</h1>
