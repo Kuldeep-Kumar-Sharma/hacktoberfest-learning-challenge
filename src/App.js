@@ -1,17 +1,15 @@
-import { useEffect, useState } from 'react';
-import './App.css';
+import { useEffect, useState } from "react";
+import "./App.css";
 
 function App() {
   const [data, setData] = useState();
   useEffect(() => {
-    fetch("./data.json")
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (data) {
-        console.log(data)
+    fetch("./data.json").then((response) => {
+      response.json().then((data) => {
+        console.log(data);
         setData(data.data);
       });
+    });
   }, []);
 
   return (
