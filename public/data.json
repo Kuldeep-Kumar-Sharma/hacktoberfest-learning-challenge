@@ -5,6 +5,12 @@
             "courseName": "Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)",
             "courseDescription": "Updated! Become a Senior React Developer. Build a massive E-commerce app with Redux, Hooks, GraphQL, Stripe, Firebase",
             "courseLink": "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/30554074#overview"
+        },
+        {
+            "courseId": "002",
+            "courseName": "Angular (Full App) with Angular Material, Angularfire & NgRx",
+            "courseDescription": "Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App",
+            "courseLink": "https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/"
         }
     ]
 }
