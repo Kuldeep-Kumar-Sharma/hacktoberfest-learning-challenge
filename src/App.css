@@ -1,6 +1,7 @@
 .container {
   display: flex; /* or inline-flex */
   flex-flow: column;
+  background-image: radial-gradient(#99e7a3, #fff);
 }
 
 .header {
