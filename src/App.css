@@ -6,6 +6,9 @@
 
 .header {
   padding: 10px;
+  font-size: 2em;
+  color: blueviolet;
+  background-color: aqua;
 }
 
 .main {
@@ -15,9 +18,13 @@
 
 .card {
   border: 1px;
+  background-color: #fff;
   border-color: coral;
-  border-style: dotted;
+  border-style:  none;
+  border-radius: 5px;
   padding: 20px;
+  margin-top: 10px;
+  box-shadow: 5px 5px rgb(198, 198, 198);
 }
 
 .col {

@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="container">
-      <header className="header">Learning Sources</header>
+      <header className="header">Best Online Courses: </header>
       <div className="main">
         {data &&
           data.map((course) => (
