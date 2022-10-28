@@ -18,6 +18,8 @@
 
 .card {
   border: 1px;
+  margin-left: 200px;
+  margin-right: 200px;
   background-color: #fff;
   border-color: coral;
   border-style:  none;
