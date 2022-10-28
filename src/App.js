@@ -33,7 +33,7 @@ function App() {
               </div>
               <div class="row">
                 <b>Course Link: </b>
-                <a href={course.courseLink}> Check Out the course</a>
+                <a class="button" href={course.courseLink}> Check Out the course</a>
               </div>
             </div>
           ))}
