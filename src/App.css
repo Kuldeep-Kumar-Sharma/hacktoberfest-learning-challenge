@@ -34,3 +34,14 @@
 .row {
   flex-flow: row wrap;
 }
+
+.button {
+  background-color: #470635; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
