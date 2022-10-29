@@ -11,6 +11,12 @@
             "courseName": "Angular (Full App) with Angular Material, Angularfire & NgRx",
             "courseDescription": "Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App",
             "courseLink": "https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/"
-        }
+        },
+        {
+            "courseId": "003",
+            "courseName": "The Complete 2022 Web Development Bootcamp",
+            "courseDescription": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+            "courseLink": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+        },
     ]
 }
